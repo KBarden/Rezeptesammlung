@@ -1,0 +1,49 @@
+html { 
+    background: url("Hintergrundbild.jpg") no-repeat center center fixed; 
+    background-size: cover;
+  }
+
+ div.Startseite h1{
+    color:antiquewhite;
+    text-align: center;
+    font-size: 70px;
+}
+
+div.Startseite {
+    text-align: center;
+}
+
+a{
+    color:inherit;
+    text-decoration: none;
+
+}
+div.Startseite ul li {
+    display: inline-block;
+    font-size: 35px;
+    color: white;
+    border: white solid 2px;
+    padding: 20px;
+    background-color: rgba(81, 15, 38, 0.774);
+    border-radius:8px;
+    margin: 20px;
+    width: 300px;
+    height: 50px;
+ 
+}
+
+div.Startseite ul.neuesrezept li{
+    font-size: 20px;
+    height: 40px;
+    width: 150px;
+    padding: 20px;
+    background-color: rgba(83, 105, 125, 0.895);
+}
+
+div.Startseite ul li:hover{
+    background-color: rgb(25, 78, 124);
+}
+
+div.Startseite ul li:hover{
+    background-color: rgb(25, 78, 124);
+}
